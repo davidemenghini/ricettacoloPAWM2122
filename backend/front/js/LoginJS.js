@@ -1,7 +1,0 @@
-
-
-
-
-function checkLogin(username, pass){
-    
-}
