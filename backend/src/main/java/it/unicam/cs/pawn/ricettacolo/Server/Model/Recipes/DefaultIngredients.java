@@ -1,4 +1,4 @@
-package it.unicam.cs.pawn.ricettacolo;
+package it.unicam.cs.pawn.ricettacolo.Server.Model.Recipes;
 
 import it.unicam.cs.pawn.ricettacolo.Persistence.Database;
 import it.unicam.cs.pawn.ricettacolo.Persistence.DefaultDatabase;
