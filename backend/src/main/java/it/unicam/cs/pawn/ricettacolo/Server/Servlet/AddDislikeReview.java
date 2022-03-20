@@ -103,7 +103,7 @@ public class AddDislikeReview extends HttpServlet {
     private void setCors(HttpServletResponse resp) {
         resp.addHeader("Access-Control-Allow-Origin", "http://localhost:3000");
         resp.addHeader("Access-Control-Allow-Credentials", "true");
-        resp.addHeader("Access-Control-Allow-Methods", "PATCH, GET, OPTIONS");
+        resp.addHeader("Access-Control-Allow-Methods", "POST, GET, OPTIONS");
         resp.addHeader("Access-Control-Allow-Headers", "Content-Type");
 
     }
